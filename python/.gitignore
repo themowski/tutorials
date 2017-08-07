@@ -1,0 +1,14 @@
+*.py[cod]
+
+# Project files
+.pydevproject
+.idea/tasks.xml
+.idea/workspace.xml
+
+# Registration files
+registration/constants.py
+registration/*.csv
+
+# Temporary files and directories
+fs_temp
+regents_copy.csv

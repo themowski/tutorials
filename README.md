@@ -1,2 +1,1 @@
-# tutorials
-Programming-related tutorials
+# Programming-related tutorials

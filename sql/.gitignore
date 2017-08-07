@@ -1,0 +1,4 @@
+*.py[cod]
+.idea/tasks.xml
+.idea/workspace.xml
+salaries.sqlite
