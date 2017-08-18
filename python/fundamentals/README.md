@@ -1,8 +1,9 @@
 # Python tutorial with an emphasis on data analysis #
 
 ## Format ##
-A sequence of [Python] modules that demonstrate all of the necessary machinery to accomplish common data analysis tasks. The modules are named in the order in which we'll cover them (01_descriptive_name.py, 02_descriptive_name.py, ... N_descriptive_name.py).
-The tasks are named taskN.py in the corresponding order.
+A sequence of [Python] modules that demonstrate all of the necessary machinery to accomplish common data analysis tasks.
+The modules are named in the order in which we'll cover them (`01_descriptive_name.py`, `02_descriptive_name.py`, ... `N_descriptive_name.py`).
+The tasks are named `taskN.py` in the corresponding order.
 
 ## Free software to download and install ##
 
