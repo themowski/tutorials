@@ -4,6 +4,7 @@
 .pydevproject
 .idea/tasks.xml
 .idea/workspace.xml
+.vscode
 
 # Registration files
 registration/constants.py

@@ -1,14 +1,15 @@
 # Python tutorial with an emphasis on data analysis #
 
 ## Format ##
-A sequence of [Python] modules that demonstrate all of the necessary machinery to accomplish common data analysis tasks. The modules are named in the order in which we'll cover them (01_descriptive_name.py, 02_descriptive_name.py, ... N_descriptive_name.py).
-The tasks are named taskN.py in the corresponding order.
+A sequence of [Python] modules that demonstrate all of the necessary machinery to accomplish common data analysis tasks.
+The modules are named in the order in which we'll cover them (`01_descriptive_name.py`, `02_descriptive_name.py`, ... `N_descriptive_name.py`).
+The tasks are named `taskN.py` in the corresponding order.
 
 ## Free software to download and install ##
 
 #### Windows ####
-1. [Java 7 SE Runtime Environment for end users](http://www.oracle.com/technetwork/java/javase/downloads/index.html): install this first
-1. [Python 2.7.6](http://python.org/download/releases/2.7.6/): install this second; ActivePython 2.7.* is also fine
+1. [Java 8 SE Runtime Environment for end users](http://www.oracle.com/technetwork/java/javase/downloads/index.html): install this first
+1. [Python 2.7.\*](http://python.org/download/): install this second; [ActivePython 2.7.\*](https://www.activestate.com/activepython/downloads) is also fine
 1. [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/): install this third
 
 #### OS X or Linux ###
@@ -33,16 +34,17 @@ The tasks are named taskN.py in the corresponding order.
     * [Comparison](http://docs.python.org/2/library/stdtypes.html#comparisons)
 * [Python language reference](http://docs.python.org/2/reference/index.html)
 * [Python package index](http://pypi.python.org)
-* [Python 2.6 cheat sheet](http://rgruet.free.fr/PQR26/PQR2.6.html)
+* [Python 2.7 quick reference](http://rgruet.free.fr/PQR27/PQR2.7.html)
 * [Python pocket reference (book)](http://shop.oreilly.com/product/9780596158095.do)
 
 ## Practicing Python ##
 * [Python challenge](http://www.pythonchallenge.com/)
 
 ## Relevant libraries ##
-* [scipy, numpy, Matplotlib](http://www.scipy.org/)
+* [SciPy.org - scipy, numpy, matplotlib, pandas](http://www.scipy.org/); Windows users probably want to get NumPy, SciPy, etc. via the precompiled binaries on [Christoph Gohlke's page](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [Numeric and scientific libraries](https://wiki.python.org/moin/NumericAndScientific)
 * [Sandman](http://www.sandman.io/)
+* [Anaconda](https://www.continuum.io/what-is-anaconda) is a full-stack scientific Python environment that is popular in the data science realm; "one-stop shop" for many popular packages, as well as a bundled Python interpreter
 
 ## Contact ##
 [minorgordon.net](http://minorgordon.net)
